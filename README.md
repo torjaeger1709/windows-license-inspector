@@ -172,15 +172,15 @@ Options:
 ### Console Report
 
 <p align="center">
-  <img src="docs/images/sample_console_1.png" width="900">
+  <img src="docs/sample_console_1.png" width="900">
 </p>
 
 <p align="center">
-  <img src="docs/images/sample_console_2.png" width="900">
+  <img src="docs/sample_console_2.png" width="900">
 </p>
 
 <p align="center">
-  <img src="docs/images/sample_console_3.png" width="900">
+  <img src="docs/sample_console_3.png" width="900">
 </p>
 
 ## 7. Known Limitations & Edge Cases
